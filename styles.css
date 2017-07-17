@@ -71,17 +71,21 @@ img {
   font-size: .8em;
   font-family: "Helvetica";
   margin-left:40px;
-  height:25px;
+  height:30px;
   background-color: #a6b1c1;
   color:black;
-  width:800px;
+  width:400px;
   text-align: middle;
 }
 footer {
-  text-align: center;
-  padding:30px;
+  font-family: "Helvetica";
+  padding: 40px;
+  padding-left: 170px;
+  color: #bed0ea;
+  background-image: url("footer.jpg");
   background-size: 100%;
-  background-color: #a6b1c1;
+  background-repeat: no-repeat;
+  height: 100px;
 }
 @media screen and (max-width: 450px) {
   header > h1{
@@ -95,5 +99,12 @@ footer {
     padding: 10px;
   }
 }
-
-
+.piece {
+  font-family: "Helvetica";
+  margin:5%;
+  text-align: middle;
+}
+form {
+  font-family: "Helvetica";
+  margin:5%;
+}
