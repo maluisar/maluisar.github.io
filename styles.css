@@ -56,7 +56,7 @@ p {
   padding-left:40px;
   padding-right:40px;
   padding-top: 20px;
-  margin; auto;
+  margin: auto;
   width: 80%;
   font-family: "Helvetica";
 }
@@ -75,7 +75,6 @@ img {
   background-color: #a6b1c1;
   color:black;
   width:400px;
-  text-align: middle;
 }
 footer {
   font-family: "Helvetica";
@@ -102,7 +101,6 @@ footer {
 .piece {
   font-family: "Helvetica";
   margin:5%;
-  text-align: middle;
 }
 form {
   font-family: "Helvetica";
